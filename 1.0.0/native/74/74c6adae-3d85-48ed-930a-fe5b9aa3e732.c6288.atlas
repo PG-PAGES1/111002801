@@ -1,0 +1,166 @@
+
+freeend.png
+size: 1628,1511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_f
+  rotate: false
+  xy: 2, 1318
+  size: 211, 191
+  orig: 211, 191
+  offset: 0, 0
+  index: -1
+total_bg
+  rotate: true
+  xy: 215, 1185
+  size: 324, 702
+  orig: 324, 702
+  offset: 0, 0
+  index: -1
+zhongjiangguangxiao/total_glow_a_00
+  rotate: false
+  xy: 919, 1008
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_16
+  rotate: false
+  xy: 919, 1008
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_32
+  rotate: false
+  xy: 919, 1008
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_01
+  rotate: false
+  xy: 2, 682
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_17
+  rotate: false
+  xy: 2, 682
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_02
+  rotate: false
+  xy: 544, 505
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_18
+  rotate: false
+  xy: 544, 505
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_06
+  rotate: false
+  xy: 1086, 505
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_22
+  rotate: false
+  xy: 1086, 505
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_07
+  rotate: false
+  xy: 2, 179
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_23
+  rotate: false
+  xy: 2, 179
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_08
+  rotate: false
+  xy: 544, 2
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_24
+  rotate: false
+  xy: 544, 2
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_12
+  rotate: false
+  xy: 1086, 2
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_28
+  rotate: false
+  xy: 1086, 2
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+
+freeend2.png
+size: 1302,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuanbeijin
+  rotate: false
+  xy: 2, 2
+  size: 756, 1051
+  orig: 756, 1051
+  offset: 0, 0
+  index: -1
+zhongjiangguangxiao/total_glow_a_13
+  rotate: false
+  xy: 760, 552
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_29
+  rotate: false
+  xy: 760, 552
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_14
+  rotate: false
+  xy: 760, 49
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1
+zhongjiangguangxiao/total_glow_a_30
+  rotate: false
+  xy: 760, 49
+  size: 540, 501
+  orig: 540, 633
+  offset: 0, 132
+  index: -1

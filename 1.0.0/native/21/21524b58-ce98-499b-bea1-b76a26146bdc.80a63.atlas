@@ -1,0 +1,125 @@
+
+multiplier.jpg
+size: 342,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+multiplier/multiplier_vfx_b_add_00
+  rotate: true
+  xy: 154, 466
+  size: 34, 40
+  orig: 250, 250
+  offset: 108, 106
+  index: -1
+multiplier/multiplier_vfx_b_add_01
+  rotate: false
+  xy: 280, 548
+  size: 60, 68
+  orig: 250, 250
+  offset: 95, 92
+  index: -1
+multiplier/multiplier_vfx_b_add_02
+  rotate: false
+  xy: 248, 406
+  size: 88, 94
+  orig: 250, 250
+  offset: 81, 78
+  index: -1
+multiplier/multiplier_vfx_b_add_03
+  rotate: true
+  xy: 2, 2
+  size: 106, 108
+  orig: 250, 250
+  offset: 71, 71
+  index: -1
+multiplier/multiplier_vfx_b_add_04
+  rotate: false
+  xy: 132, 236
+  size: 116, 112
+  orig: 250, 250
+  offset: 66, 69
+  index: -1
+multiplier/multiplier_vfx_b_add_05
+  rotate: false
+  xy: 2, 110
+  size: 120, 114
+  orig: 250, 250
+  offset: 64, 68
+  index: -1
+multiplier/multiplier_vfx_b_add_06
+  rotate: true
+  xy: 2, 340
+  size: 124, 118
+  orig: 250, 250
+  offset: 62, 67
+  index: -1
+multiplier/multiplier_vfx_b_add_07
+  rotate: false
+  xy: 122, 350
+  size: 124, 114
+  orig: 250, 250
+  offset: 61, 68
+  index: -1
+multiplier/multiplier_vfx_b_add_08
+  rotate: false
+  xy: 2, 226
+  size: 128, 112
+  orig: 250, 250
+  offset: 61, 69
+  index: -1
+multiplier/multiplier_vfx_b_add_09
+  rotate: false
+  xy: 154, 502
+  size: 124, 114
+  orig: 250, 250
+  offset: 62, 71
+  index: -1
+multiplier/multiplier_vfx_b_add_10
+  rotate: true
+  xy: 232, 112
+  size: 122, 104
+  orig: 250, 250
+  offset: 61, 73
+  index: -1
+multiplier/multiplier_vfx_b_add_11
+  rotate: true
+  xy: 124, 102
+  size: 122, 106
+  orig: 250, 250
+  offset: 58, 72
+  index: -1
+multiplier/multiplier_vfx_b_add_12
+  rotate: false
+  xy: 112, 20
+  size: 118, 80
+  orig: 250, 250
+  offset: 65, 76
+  index: -1
+multiplier/multiplier_vfx_b_add_13
+  rotate: true
+  xy: 250, 316
+  size: 88, 80
+  orig: 250, 250
+  offset: 93, 79
+  index: -1
+scatter_glow_a
+  rotate: false
+  xy: 2, 466
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+scatter_glow_f
+  rotate: false
+  xy: 250, 251
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+spin_glow_a
+  rotate: true
+  xy: 232, 6
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1

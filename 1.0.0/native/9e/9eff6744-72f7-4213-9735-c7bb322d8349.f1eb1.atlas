@@ -1,0 +1,40 @@
+
+freestrat.png
+size: 1518,1642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_transition_a
+  rotate: false
+  xy: 2, 2
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+bonus_transition_d
+  rotate: false
+  xy: 760, 2
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
+
+freestrat2.png
+size: 1518,1642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_transition_c
+  rotate: false
+  xy: 760, 209
+  size: 756, 1431
+  orig: 756, 1638
+  offset: 0, 207
+  index: -1
+mianfeibeijinmajiang
+  rotate: false
+  xy: 2, 2
+  size: 756, 1638
+  orig: 756, 1638
+  offset: 0, 0
+  index: -1
